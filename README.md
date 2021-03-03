@@ -1,2 +1,2 @@
-### This is project of InvoiceXR by team 7
+### This is the InvoiceXR
 # Directory
